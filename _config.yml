@@ -68,9 +68,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "kodogyu@khu.ac.kr"
   facebook: kodogyu
   github: kodogyu
+  email: "kodogyu@khu.ac.kr"
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
