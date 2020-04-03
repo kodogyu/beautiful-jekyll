@@ -1,4 +1,5 @@
 ---
+layout: Post
 title: ROS실습1
 subtitle: 2019.10.26실습
 tags: [study]
