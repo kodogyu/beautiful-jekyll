@@ -98,7 +98,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-GBC4TEEFGY"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -152,9 +152,6 @@ title-separator: "-"
 
 # Ruby Date Format
 date_format: "%B %-d, %Y"
-
-#Google Analytics
-google_analytics="G-GBC4TEEFGY"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
