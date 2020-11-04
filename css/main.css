@@ -664,7 +664,7 @@ table tr td :last-child {
 
 /* --- Code blocks --- */
 
-pre {
+/*pre {
   font-size: 16px;
   line-height: 1.5em;
 }
@@ -682,10 +682,10 @@ pre {
   border-left: 7px solid #444;
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
-  padding: 0;
+/*  padding: 0;
 }
 .highlight table, .highlight tr, .highlight td { /* to be removed after fixing table styles */
-  border: none;
+/*  border: none;
   background: none;
   padding: 0;
   margin: 0;
@@ -695,9 +695,9 @@ pre {
   border-radius: 0;
   border-right: 2px solid #444;
 }
-
+*/
 /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
-.lineno {
+/*.lineno {
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -706,7 +706,7 @@ pre {
 .lineno::selection, .lineno::-moz-selection {
   background: none;
 }
-
+*/
 /* --- Social media sharing section --- */
 
 #social-share-section {
