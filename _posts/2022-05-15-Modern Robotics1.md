@@ -1,4 +1,5 @@
 ---
+layout : post
 title : Modern Robotics의 시작
 subtitle : Modern Robotics Get Started & Chapter 1
 tags : [study, robotics]
