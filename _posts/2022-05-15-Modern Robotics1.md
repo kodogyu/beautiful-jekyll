@@ -11,9 +11,9 @@ tags : [study, robotics]
 <br>
 
 Course의 순서는 다음과 같습니다.
-    - Modern Robotics, Course 1: Foundations of Robot Motion
-    - Modern Robotics, Course 2: Robot Kinematics
-    - Modern Robotics, Course 3: Robot Dynamics
-    - Modern Robotics, Course 4: Robot Motion Planning and Control
-    - Modern Robotics, Course 5: Robot Manipulation and Wheeled Mobile Robots
-    - Modern Robotics, Course 6: Capstone Project, Mobile Manipulation
+  - Modern Robotics, Course 1: Foundations of Robot Motion
+  - Modern Robotics, Course 2: Robot Kinematics
+  - Modern Robotics, Course 3: Robot Dynamics
+  - Modern Robotics, Course 4: Robot Motion Planning and Control
+  - Modern Robotics, Course 5: Robot Manipulation and Wheeled Mobile Robots
+  - Modern Robotics, Course 6: Capstone Project, Mobile Manipulation
